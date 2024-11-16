@@ -1,0 +1,15 @@
+{
+  "name": "mesmerizing-lyssama",
+  "version": "1.0.0",
+  "description": "[Original Mesmerizing Codepen](https://codepen.io/xposedbones/pen/aOrQVy)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alyssa Anderson <alyssam.anderson@yahoo.com> (https://github.com/RVCC-IDMX/cowsay-LyssaMA)",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
